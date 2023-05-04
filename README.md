@@ -1,21 +1,17 @@
-# cNq83aTN
+# Portfolio - Front-End Developer
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Welcome to my portfolio! This website showcases my skills as a front-end developer and highlights some of my recent projects.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Introduction
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+My name is Chanel Waters and I am a junior front-end developer with a background in film and a passion for storytelling, art, and entertainment. I create visually stunning websites and applications that engage and delight users. With a keen eye for design and a deep understanding of the user experience, I strive to create immersive digital experiences that bring the worlds of art and technology together. My portfolio website is designed to showcase some of my recent projects and demonstrate my skills as a front-end developer. [Enjoy!](https://chaneldevelops.github.io) 😁
 
-Happy Coding!
+## Technologies Used
+
+This website was built using the following technologies:
+
+- HTML
+- CSS
+- JavaScript
