@@ -1,3 +1,7 @@
+/* FONT IMPORTS */
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital@0;1&display=swap');
+
 *,
 *::before,
 *::after {
@@ -7,15 +11,16 @@
 /* Custom Properties, update these for your own design */
 
 :root {
-    --ff-primary: 'Source Sans Pro', sans-serif;
-    --ff-secondary: 'Source Code Pro', monospace;
+    --ff-primary: 'Michroma', sans-serif;
+    --ff-secondary: 'Overpass', sans-serif;
     
     --fw-reg: 300;
     --fw-bold: 900;
     
     --clr-light: #fff;
-    --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-dark: #333B47;
+    --clr-accent: #FFA41C;
+    --clr-rojo: #DC1919;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -42,12 +47,19 @@
     scroll-behavior: smooth;
 } */
 
+h1, h2 {
+    font-family: var(--ff-primary);
+}
+
+p {
+    font-size: 1.3rem;
+}
 
 body {
     background: var(--clr-light);
     color: var(--clr-dark);
     margin: 0;
-    font-family: var(--ff-primary);
+    font-family: var(--ff-secondary);
     font-size: var(--fs-body);
     line-height: 1.6;
 }
@@ -346,6 +358,14 @@ header {
     margin: 0 auto;
 }
 
+.about-me h2 {
+    margin-bottom: 2rem;
+}
+
+.about-me__body p {
+    font-size: 1.3rem;
+}
+
 .about-me__img {
     box-shadow: var(--bs);
 }
@@ -436,6 +456,7 @@ header {
 }
 
 .footer__link {
+    font-family: var(--ff-primary);
     font-weight: var(--fw-bold);
 }
 
