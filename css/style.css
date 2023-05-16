@@ -499,3 +499,9 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+/* SUB HTML PAGES */
+.mid-info-img {
+    box-shadow: var(--bs);
+}
