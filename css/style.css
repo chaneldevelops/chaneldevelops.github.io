@@ -500,6 +500,11 @@ header {
     margin-right: auto;
 }
 
+.portfolio-item-individual a {
+    color: var(--clr-accent);
+
+}
+
 
 /* SUB HTML PAGES */
 .mid-info-img {
